@@ -1,0 +1,12 @@
+git add path/to/changed/file/or/directory
+Process for adding edited files into a staged state
+
+git commit -m “Made some changes”
+The act of creating a snapshot
+
+git checkout BranchWithoutNewFeature
+git merge BranchWithNewFeature
+Checkout and merge branchs to update features
+
+git clone URL
+The act of cloning an existing git repo
